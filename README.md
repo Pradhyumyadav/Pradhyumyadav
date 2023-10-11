@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Pradhyumyadav
 - 👀 I’m interested in Travelling and coding
 - 🌱 I've pursued  BCA
-- 💞️ I’m looking to collaborate on blockchain network and AI,ML
+- 💞️ I’m looking to collaborate on Python Development and AI,ML
 - 📫 How to reach me pradhyumyadav992@gmail.com
 
 <!---
