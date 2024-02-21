@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Pradhyumyadav
 - 👀 I’m interested in Travelling and coding
-- 🌱 I've pursued  BCA
+- 🌱 I've pursued  BCA,Now Pursuing Msc. Computer Science(Coventry University)
 - 💞️ I’m looking to collaborate on Python Development and AI,ML
 - 📫 How to reach me pradhyumyadav992@gmail.com
 
